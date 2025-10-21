@@ -1,0 +1,27 @@
+Operators:
+The operators are symbols that are used to do operation over something. There are four types of operators in javascript, i.e.
+1. Arthematic operators: These are used to do the mathematical calculations. The operators fall into this category are.
+   addition (+),
+   substraction (-),
+   multiplication (*),
+   division (/),
+   modulo (%)
+
+2. Assignment operators: These operators are used to assign the value to a variable. These include:
+   equals to (=),
+   addition assignment (+=),
+   substraction assignment (-=),
+   multiplication assignment (*=),
+   division assignment (/=)
+
+3. Relational operators: The relational operators are used to compare the things in the programming language and often gives result in boolean datatype. These include
+   is equals to (==) (It is different from assignment operator equals to (=) ),
+   less than (<),
+   greater than (>),
+   less than equals to (<=),
+   greater than equals to (>=)
+
+4. Logical operators: The logical operators are the operators which are used to connect two or more conditions. This include
+   and (&&): only true when both conditions are true,
+   or (||): only true if one of either condition is true,
+   not (!): if one condition is true make it false and vice-versa

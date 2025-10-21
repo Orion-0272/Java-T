@@ -1,0 +1,24 @@
+Datatypes:
+The type of value (data) which is used in a program. There is a two types of datatypes, i.e.
+1. Primitive datatypes: Refers to pre-defined data, which represents a single value.
+    1. byte: An 8-bit signed integer, ranging from -128 to 127.
+    2. short: A 16-bit signed integer, ranging from -32,768 to 32,767.
+    3. int: A 32-bit signed integer, ranging from -2,147,483,648 to 2,147,483,647.
+    4. long: A 64-bit signed integer, ranging from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
+
+    5. float: A 32-bit single-precision floating-point number, used for decimal values with less precision.
+    6. double: A 64-bit double-precision floating-point number, used for decimal values requiring higher precision.
+
+    7. char: A 16-bit Unicode character, representing a single character.
+    8. boolean: Represents a logical value, either true or false.
+
+2. Non-primitive datatypes: Refers to data types where instead of storing actual values, they store the reference (memory address) of the data.
+    1. Arrays: Arrays are used to store multiple values of same datatype in single variable. The datatype can be primitive or non-primitive.
+
+    2. String: Strings are sequences of characters and are widely used for representing text. In Java, String is a class, making it a non-primitive data type.
+    3. Enums: An enum (short for enumeration) in Java is a special data type used to define a fixed set of constant values.
+
+    4. Class: The class is a user-defined datatype. These work as blueprints for the objects.
+    5. Interface: Defines the methods a class must implement. These act as blueprints for class.
+
+
