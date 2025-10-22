@@ -21,4 +21,6 @@ The type of value (data) which is used in a program. There is a two types of dat
     4. Class: The class is a user-defined datatype. These work as blueprints for the objects.
     5. Interface: Defines the methods a class must implement. These act as blueprints for class.
 
+    For class and interface, go to Object Oriented Programming module.
+
 
