@@ -1,0 +1,13 @@
+As we write programs, there might be errors due to which our program will not work as expected and will crash out.
+The process to handle these errors, and maintain the smooth running of application is known as exception handling.
+
+The errors are of two types, i.e.
+1. Compile time errors: The one which occurs while compiling the code.
+2. Run time errors: The errors which occurs while the application is running.
+
+The compile time errors can be easily detected by the java, and solved at that particular time only. But the problem is with run time errors.
+The run time errors are hard to catch and can occur anytime.
+For example: While getting some data from database, the connection is interrupted because the database server crashed. Hence, there is run time error.
+
+We majorly use exception handling for run time errors.
+
