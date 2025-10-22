@@ -1,0 +1,20 @@
+Object Oriented Programming (OOPs):
+Object Oriented Programming is a way of writing the code that organizes everything around objects.
+                                OR WE CAN SAY
+Object-Oriented Programming is a programming style where we structure programs using objects.
+
+Objects:
+An object is a real-world entity (just like car, pen, human being, etc.) represented in software program.
+An object can have any number of properties and behaviour.
+For example: A pen can have properties like brand, color, ball or gel pen, etc. and behaviour like write, etc.
+Another example: A car can have properties like brand, color, engine, etc. and behaviour like move, stop, etc.
+
+Class:
+A class is a user defined datatype or blueprint for an object. It defines the properties and behaviour an object may have.
+
+Pillars of OOPs:
+There are four main pillars of object oriented programming, which makes it best for organizing the code.
+1. Inheritance
+2. Encapsulation
+3. Abstraction
+4. Polymorphism
