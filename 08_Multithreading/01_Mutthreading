@@ -1,0 +1,13 @@
+The program which gets executed is known as a process.
+Dividing these process into smaller units, which could work independently and share same memory are known as threads.
+
+For example: Let's suppose, there is a server which takes the request of user and do some operations, then send result.
+When the server have single thread, the server could do only one thing at a time like while doing operation, it could not take another request.
+But when we use multiple threads, one for taking request, one for doing operation and last one for sending the result, then each could work independently.
+This enables the server to handle multiple task at the same time. If we make multiple thread for doing operation, then we could process multiple request at the same time.
+
+The complete process of creating multiple threads for a particular work, this is known as multithreading.
+
+There are two ways to create thread:
+1. Extending the `Thread` class
+2. Using `Runnable` interface.
